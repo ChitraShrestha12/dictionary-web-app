@@ -3,7 +3,7 @@
 A simple web application that allows users to search to search word and it show word definition, phonetic, meaning, part of speech, antonym, synonym, source.
 
 ## Live Demo
-Check out the live demo [here](https://meaningoapp.netlify.app/)!
+Check out the live demo <a href="https://meaningoapp.netlify.app/" target="_blank">here</a>!
 
 ## Features
 - Dark and light mode
