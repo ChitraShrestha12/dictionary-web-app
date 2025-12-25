@@ -14,4 +14,5 @@ A simple web application that allows users to search to search word and it show 
 - Mobile responsive design (works on phones and tablets)
 
 ## Screenshots
-![Home Page]
+![Home Page](desktop-screenshot.png)
+![Search Result](mobile-screenshot.png)
