@@ -13,3 +13,5 @@ A simple web application that allows users to search to search word and it show 
 - Shows a "Not Found" message when no matching word is found
 - Mobile responsive design (works on phones and tablets)
 
+## Screenshots
+![Home Page]
