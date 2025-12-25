@@ -24,3 +24,8 @@ A simple web application that allows users to search to search word and it show 
 - React JS
 - React Icons
 - Dictionary API ([Free Dictionary API](https://dictionaryapi.dev/))
+
+## License
+This project is part of a [Frontend Mentor](https://www.frontendmentor.io/) challenge and is licensed under the MIT License.
+
+**Made by Chitra Shrestha**
