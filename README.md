@@ -16,3 +16,11 @@ A simple web application that allows users to search to search word and it show 
 ## Screenshots
 ![Home Page](desktop-screenshot.png)
 ![Search Result](mobile-screenshot.png)
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- React JS
+- React Icons
+- Dictionary API ([Free Dictionary API](https://dictionaryapi.dev/))
