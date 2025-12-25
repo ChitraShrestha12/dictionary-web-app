@@ -2,6 +2,10 @@
 
 A simple web application that allows users to search to search word and it show word definition, phonetic, meaning, part of speech, antonym, synonym, source.
 
+
+## Live Demo
+Check out the live demo [here]([(https://meaningoapp.netlify.app/)])!
+
 ## Features
 - Dark and light mode
 - Font switcher (monospace, serif, sans-serif)
