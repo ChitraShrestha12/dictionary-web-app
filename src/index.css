@@ -305,6 +305,8 @@ main {
 }
 
 .source-link p {
+  font-size: 24px;
+  font-weight: 600;
   color: #2d2d2d;
 }
 
@@ -399,12 +401,13 @@ main {
     font-size: 18px;
   }
 
-    .source-link {
+  .source-link {
     display: block;
   }
 
   .source-link a {
-    font-size: 20px;
+    font-size: 16px;
+    margin-top: 8px;
   }
 }
 
@@ -433,8 +436,4 @@ main {
     gap: 30px;
   }
 
-  .source-link a {
-    margin-top: 8px;
-    font-size: 18px;
-  }
 }
