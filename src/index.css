@@ -398,6 +398,14 @@ main {
   .term-words span {
     font-size: 18px;
   }
+
+    .source-link {
+    display: block;
+  }
+
+  .source-link a {
+    font-size: 20px;
+  }
 }
 
 @media screen and (max-width: 360px) {
@@ -425,12 +433,8 @@ main {
     gap: 30px;
   }
 
-  .source-link {
-    display: block;
-  }
-
   .source-link a {
     margin-top: 8px;
-    font-size: 16px;
+    font-size: 18px;
   }
 }
