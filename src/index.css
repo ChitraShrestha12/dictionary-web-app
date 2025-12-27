@@ -426,10 +426,11 @@ main {
   }
 
   .source-link {
-    gap: 26px;
+    display: block;
   }
 
   .source-link a {
+    margin-top: 8px;
     font-size: 16px;
   }
 }
