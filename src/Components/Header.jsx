@@ -24,15 +24,11 @@ function Header() {
         </div>
         <p className="vertical-line">|</p>
         <button className="theme-switcher" onClick={updateDarkPreference}>
-          {(() => {
-            if (!preferences.isDark) {
-              return (
-                <IoMoonOutline className="moon-icon theme-switcher-icon" />
-              );
-            } else {
-              return <FaRegSun className="sun-icon theme-switcher-icon" />;
-            }
-          })()}
+          {!preferences.isDark ? (
+  <IoMoonOutline className="moon-icon theme-switcher-icon" />
+) : (
+  <FaRegSun className="sun-icon theme-switcher-icon" />
+)}
         </button>
       </nav>
     </header>
