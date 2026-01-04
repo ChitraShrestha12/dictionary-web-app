@@ -300,6 +300,7 @@ main {
 
 .source-link {
   display: flex;
+  align-items: baseline;
   gap: 30px;
   margin-block: 30px;
 }
